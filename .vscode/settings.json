@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "luka",
+            "host": "nether.mojvegovc.si",
+            "port": 1883,
+            "clientId": "vsmqtt_client_1de5",
+            "username": "VegovaLjubljana",
+            "password": "RSOv"
+        }
+    ]
+}
