@@ -68,8 +68,8 @@ void setup() {
 
     config.client_id = "Bananaman";
     config.host = "nether.mojvegovc.si";
-    config.password = "RSOv";
-    config.username = "VegovaLjubljana";
+    config.password = "PASSWORD";
+    config.username = "USERNAME";
     config.port = 1883;
     config.lwt_msg = "Cleint298484 disconnected";
     config.lwt_topic = "banana";
